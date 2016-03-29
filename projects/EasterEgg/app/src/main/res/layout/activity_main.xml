@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.easteregg.MainActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background"/>
+
+    <LinearLayout
+        android:id="@+id/linearlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20sp">
+
+        <EditText
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="16sp"
+            android:layout_margin="8sp"
+            android:inputType="number"
+            android:hint="Informe a quantidade de chocolate"
+            android:layout_weight="3"/>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Calcular"
+            android:background="#000000"
+            android:textColor="#FFFFFF"
+            android:onClick="calculate"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/easter_egg_image_view"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:src="@drawable/easteregg"
+        android:layout_below="@+id/linearlayout"
+        android:layout_centerHorizontal="true"
+        android:visibility="invisible"/>
+    <TextView
+        android:id="@+id/result_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Com 3 kilos de chocolate podemos fazer 6 ovos de chocolate"
+        android:layout_below="@+id/easter_egg_image_view"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_margin="8dp"
+        android:visibility="invisible"/>
+
+</RelativeLayout>

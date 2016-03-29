@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Apenas Java</string>
+    <string name="name">Nome</string>
+    <string name="toppings">Topos</string>
+    <string name="whipped_cream">Chantilly</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantidade</string>
+    <string name="order">Pedido</string>
+    <string name="CannotHaveMore100Coffees">Você não pode pedir mais de 100 cafés</string>
+    <string name="CannotHaveLess1Coffee">Você não pode pedir menos de 1 café</string>
+    <string name="email_body">Nome: %1$s \nAdicionar Chantilly: %2$b \nAdicionar chocolate: %3$b \nQuantidade: %4$d \nTotal: %5$d \nObrigado!</string>
+    <string name="email_subject">Apenas Java pedido de %s</string>
+</resources>
+
