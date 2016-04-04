@@ -14,51 +14,51 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:src="@drawable/roadbackground"
-        android:scaleType="centerInside" />
+        android:scaleType="centerCrop" />
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
         android:background="@drawable/bluesign"
         android:layout_alignBottom="@+id/road_background"
         android:layout_alignRight="@+id/road_background"
         android:layout_marginBottom="20dp"
-        android:layout_marginRight="6dp"/>
+        android:layout_marginRight="18dp"/>
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
         android:background="@drawable/bluesign"
         android:layout_alignBottom="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
-        android:layout_marginBottom="125dp"
+        android:layout_marginBottom="130dp"
         android:layout_marginLeft="150dp"/>
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
         android:background="@drawable/bluesign"
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
-        android:layout_marginTop="260dp"
-        android:layout_marginLeft="12dp"/>
+        android:layout_marginTop="280dp"
+        android:layout_marginLeft="18dp"/>
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
         android:background="@drawable/bluesign"
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
-        android:layout_marginTop="160dp"
-        android:layout_marginLeft="80dp"/>
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="82dp"/>
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
         android:background="@drawable/bluesign"
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
-        android:layout_marginTop="86dp"
-        android:layout_marginLeft="15dp"/>
+        android:layout_marginTop="115dp"
+        android:layout_marginLeft="40dp"/>
 
 </RelativeLayout>
