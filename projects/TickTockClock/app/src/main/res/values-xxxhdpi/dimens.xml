@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="first_sign_top">122dp</dimen>
+    <dimen name="first_sign_left">38dp</dimen>
+
+    <dimen name="second_sign_top">200dp</dimen>
+    <dimen name="second_sign_left">123dp</dimen>
+
+    <dimen name="third_sign_top">280dp</dimen>
+    <dimen name="third_sign_left">65dp</dimen>
+
+    <dimen name="fourth_sign_top">390dp</dimen>
+    <dimen name="fourth_sign_left">42dp</dimen>
+
+    <dimen name="fifth_sign_top">425dp</dimen>
+    <dimen name="fifth_sign_left">200dp</dimen>
+</resources>
