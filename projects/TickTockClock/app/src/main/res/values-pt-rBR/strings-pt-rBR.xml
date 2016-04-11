@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Relógio Tic Tac</string>
+    <string name="hour_count_title">Horas do Relógio</string>
+    <string name="hour_count_description">Veja quais são as horas do relógio</string>
+    <string name="one">uma</string>
+    <string name="two">duas</string>
+    <string name="three">três</string>
+    <string name="four">quatro</string>
+    <string name="five">cinco</string>
+    <string name="six">seis</string>
+    <string name="seven">sete</string>
+    <string name="eight">oito</string>
+    <string name="nine">nove</string>
+    <string name="ten">dez</string>
+    <string name="eleven">onze</string>
+    <string name="twelve">doze</string>
 </resources>

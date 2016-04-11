@@ -59,6 +59,7 @@
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
         android:layout_marginTop="@dimen/fifth_sign_top"
-        android:layout_marginLeft="@dimen/fifth_sign_left"/>
+        android:layout_marginLeft="@dimen/fifth_sign_left"
+        android:onClick="HourCountShow"/>
 
 </RelativeLayout>
