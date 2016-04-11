@@ -1,17 +1,17 @@
 <resources>
-    <string name="app_name">Tick Tock Clock</string>
+    <string name="app_name">Tick Tock</string>
     <string name="hour_count_title">Clock Hour</string>
-    <string name="hour_count_description">See the clock hours</string>
-    <string name="one">one</string>
-    <string name="two">two</string>
-    <string name="three">three</string>
-    <string name="four">four</string>
-    <string name="five">five</string>
-    <string name="six">six</string>
-    <string name="seven">seven</string>
-    <string name="eight">eight</string>
-    <string name="nine">nine</string>
-    <string name="ten">ten</string>
-    <string name="eleven">eleven</string>
-    <string name="twelve">twelve</string>
+    <string name="hour_count_description">See the clock hours\n</string>
+    <string name="one">01:00\nIt\'s one o\'clock</string>
+    <string name="two">02:00\nIt\'s two o\'clock</string>
+    <string name="three">03:00\nIt\'s three o\'clock</string>
+    <string name="four">04:00\nIt\'s four o\'clock</string>
+    <string name="five">05:00\nIt\'s five o\'clock</string>
+    <string name="six">06:00\nIt\'s six o\'clock</string>
+    <string name="seven">07:00\nIt\'s seven o\'clock</string>
+    <string name="eight">08:00\nIt\'s eight o\'clock</string>
+    <string name="nine">09:00\nIt\'s nine o\'clock</string>
+    <string name="ten">10:00\nIt\'s ten o\'clock</string>
+    <string name="eleven">11:00\nIt\'s eleven o\'clock</string>
+    <string name="twelve">12:00\nIt\'s twelve o\'clock</string>
 </resources>

@@ -26,18 +26,18 @@ public class HourCountActivity extends AppCompatActivity {
     private TextView textView;
 
     int []imageArray = {
-            R.drawable.clock_00,
-            R.drawable.clock_01,
-            R.drawable.clock_02,
-            R.drawable.clock_03,
-            R.drawable.clock_04,
-            R.drawable.clock_05,
-            R.drawable.clock_06,
-            R.drawable.clock_07,
-            R.drawable.clock_08,
-            R.drawable.clock_09,
-            R.drawable.clock_10,
-            R.drawable.clock_11
+            R.drawable.clock_hour_00,
+            R.drawable.clock_hour_01,
+            R.drawable.clock_hour_02,
+            R.drawable.clock_hour_03,
+            R.drawable.clock_hour_04,
+            R.drawable.clock_hour_05,
+            R.drawable.clock_hour_06,
+            R.drawable.clock_hour_07,
+            R.drawable.clock_hour_08,
+            R.drawable.clock_hour_09,
+            R.drawable.clock_hour_10,
+            R.drawable.clock_hour_11
     };
 
     int []textArray = {
