@@ -19,7 +19,7 @@
     <Button
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:background="@drawable/bluesign"
+        android:background="@drawable/step_5"
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
         android:layout_marginTop="@dimen/first_sign_top"
@@ -29,7 +29,7 @@
     <Button
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:background="@drawable/bluesign"
+        android:background="@drawable/step_4"
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
         android:layout_marginTop="@dimen/second_sign_top"
@@ -38,7 +38,7 @@
     <Button
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:background="@drawable/bluesign"
+        android:background="@drawable/step_3"
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
         android:layout_marginTop="@dimen/third_sign_top"
@@ -48,7 +48,7 @@
     <Button
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:background="@drawable/bluesign"
+        android:background="@drawable/step_2"
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
         android:layout_marginTop="@dimen/fourth_sign_top"
@@ -58,7 +58,7 @@
     <Button
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:background="@drawable/bluesign"
+        android:background="@drawable/step_1"
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
         android:layout_marginTop="@dimen/fifth_sign_top"
