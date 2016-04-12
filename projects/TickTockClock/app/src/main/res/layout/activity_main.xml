@@ -50,7 +50,8 @@
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
         android:layout_marginTop="@dimen/fourth_sign_top"
-        android:layout_marginLeft="@dimen/fourth_sign_left"/>
+        android:layout_marginLeft="@dimen/fourth_sign_left"
+        android:onClick="MinuteCountShow"/>
 
     <Button
         android:layout_width="60dp"

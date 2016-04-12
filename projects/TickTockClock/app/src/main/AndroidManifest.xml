@@ -48,7 +48,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".HourCountActivity"></activity>
+        <activity android:name=".HourCountActivity" />
+        <activity android:name=".MinuteCountActivity"></activity>
     </application>
 
 </manifest>

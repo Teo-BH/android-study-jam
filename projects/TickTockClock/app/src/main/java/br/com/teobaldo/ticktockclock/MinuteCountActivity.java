@@ -6,13 +6,12 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-public class HourCountActivity extends AppCompatActivity {
+public class MinuteCountActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_hour_count);
-
+        setContentView(R.layout.activity_minute_count);
         this.linkViews();
         this.changeClockImage();
     }
@@ -26,34 +25,35 @@ public class HourCountActivity extends AppCompatActivity {
     private TextView textView;
 
     int []imageArray = {
-            R.drawable.clock_hour_00,
-            R.drawable.clock_hour_01,
-            R.drawable.clock_hour_02,
-            R.drawable.clock_hour_03,
-            R.drawable.clock_hour_04,
-            R.drawable.clock_hour_05,
-            R.drawable.clock_hour_06,
-            R.drawable.clock_hour_07,
-            R.drawable.clock_hour_08,
-            R.drawable.clock_hour_09,
-            R.drawable.clock_hour_10,
-            R.drawable.clock_hour_11
+            R.drawable.clock_minute_00,
+            R.drawable.clock_minute_05,
+            R.drawable.clock_minute_10,
+            R.drawable.clock_minute_15,
+            R.drawable.clock_minute_20,
+            R.drawable.clock_minute_25,
+            R.drawable.clock_minute_30,
+            R.drawable.clock_minute_35,
+            R.drawable.clock_minute_40,
+            R.drawable.clock_minute_45,
+            R.drawable.clock_minute_50,
+            R.drawable.clock_minute_55
     };
 
     int []textArray = {
-            R.string.hour_twelve,
-            R.string.hour_one,
-            R.string.hour_two,
-            R.string.hour_three,
-            R.string.hour_four,
-            R.string.hour_five,
-            R.string.hour_six,
-            R.string.hour_seven,
-            R.string.hour_eight,
-            R.string.hour_nine,
-            R.string.hour_ten,
-            R.string.hour_eleven
+            R.string.minute_zero,
+            R.string.minute_five,
+            R.string.minute_ten,
+            R.string.minute_fifteen,
+            R.string.minute_twenty,
+            R.string.minute_twenty_five,
+            R.string.minute_thirty,
+            R.string.minute_thirty_five,
+            R.string.minute_fourty,
+            R.string.minute_fourty_five,
+            R.string.minute_fifty,
+            R.string.minute_fifty_five
     };
+
 
     private void changeClockImage() {
         final Handler handler = new Handler();
@@ -72,5 +72,4 @@ public class HourCountActivity extends AppCompatActivity {
         };
         handler.postDelayed(runnable, 5000); //for initial delay..
     }
-
 }

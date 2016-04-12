@@ -23,6 +23,10 @@ public class MainActivity extends AppCompatActivity {
         MainActivity.this.startActivity(intent);
     }
 
+    public void MinuteCountShow(View view) {
+        Intent intent = new Intent(MainActivity.this, MinuteCountActivity.class);
+        MainActivity.this.startActivity(intent);
+    }
     /*
     public void ButtonClick(View view) {
         ImageView img = (ImageView)findViewById(R.id.road_background);
