@@ -30,4 +30,11 @@
     <string name="minute_fifty">00:50\nfifty minutes</string>
     <string name="minute_fifty_five">00:55\nfifty five minutos</string>
 
+    <string name="arrow_title">Clock Arrow</string>
+    <string name="arrow_description">See the clock arrows\n</string>
+    <string name="arrow_hour">12:00\ntwelve hours</string>
+    <string name="arrow_minute">00:20\ntwenty minutes</string>
+    <string name="arrow_full">12:20\ntwelve twenty</string>
+
+
 </resources>

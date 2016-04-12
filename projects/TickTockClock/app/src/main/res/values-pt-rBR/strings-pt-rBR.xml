@@ -30,4 +30,10 @@
     <string name="minute_fourty_five">00:45\nquarenta e cinco minutos</string>
     <string name="minute_fifty">00:50\ncinquenta minutos</string>
     <string name="minute_fifty_five">00:55\ncinquenta e cinco minutos</string>
+
+    <string name="arrow_title">Setas do Relógio</string>
+    <string name="arrow_description">Veja as setas do relógio\n</string>
+    <string name="arrow_hour">12:00\ndoze horas</string>
+    <string name="arrow_minute">00:20\nvinte minutos</string>
+    <string name="arrow_full">12:20\ndoze vinte</string>
 </resources>

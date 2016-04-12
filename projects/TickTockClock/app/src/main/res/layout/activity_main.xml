@@ -41,7 +41,8 @@
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
         android:layout_marginTop="@dimen/third_sign_top"
-        android:layout_marginLeft="@dimen/third_sign_left"/>
+        android:layout_marginLeft="@dimen/third_sign_left"
+        android:onClick="arrowShow"/>
 
     <Button
         android:layout_width="60dp"
@@ -51,7 +52,7 @@
         android:layout_alignLeft="@+id/road_background"
         android:layout_marginTop="@dimen/fourth_sign_top"
         android:layout_marginLeft="@dimen/fourth_sign_left"
-        android:onClick="MinuteCountShow"/>
+        android:onClick="minuteCountShow"/>
 
     <Button
         android:layout_width="60dp"
@@ -61,6 +62,6 @@
         android:layout_alignLeft="@+id/road_background"
         android:layout_marginTop="@dimen/fifth_sign_top"
         android:layout_marginLeft="@dimen/fifth_sign_left"
-        android:onClick="HourCountShow"/>
+        android:onClick="hourCountShow"/>
 
 </RelativeLayout>
