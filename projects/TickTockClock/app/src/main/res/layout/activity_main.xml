@@ -23,7 +23,8 @@
         android:layout_alignTop="@+id/road_background"
         android:layout_alignLeft="@+id/road_background"
         android:layout_marginTop="@dimen/first_sign_top"
-        android:layout_marginLeft="@dimen/first_sign_left"/>
+        android:layout_marginLeft="@dimen/first_sign_left"
+        android:onClick="dayTimeShow"/>
 
     <Button
         android:layout_width="60dp"

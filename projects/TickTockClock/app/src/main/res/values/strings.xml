@@ -26,9 +26,9 @@
     <string name="minute_thirty">00:30\nthirty minutes</string>
     <string name="minute_thirty_five">00:35\nthirty five minutes</string>
     <string name="minute_fourty">00:40\nfourty minutes</string>
-    <string name="minute_fourty_five">00:45\nfourty five minutos</string>
+    <string name="minute_fourty_five">00:45\nfourty five minutes</string>
     <string name="minute_fifty">00:50\nfifty minutes</string>
-    <string name="minute_fifty_five">00:55\nfifty five minutos</string>
+    <string name="minute_fifty_five">00:55\nfifty five minutes</string>
 
     <string name="arrow_title">Clock Arrow</string>
     <string name="arrow_description">See the clock arrows\n</string>
@@ -36,5 +36,11 @@
     <string name="arrow_minute">00:20\ntwenty minutes</string>
     <string name="arrow_full">12:20\ntwelve twenty</string>
 
-
+    <string name="day_time_title">Day Routine</string>
+    <string name="day_time_description">See the day routine\n\n</string>
+    <string name="day_time_08_00">breakfast\n08:00\nIt\'s eight o\'clock</string>
+    <string name="day_time_09_30">watch TV\n09:30\nIt\'s nine thirty</string>
+    <string name="day_time_12_15">lunch\n12:15\nIt\'s twelve fifteen</string>
+    <string name="day_time_03_45">school\n03:45\nIt\'s three fourty five</string>
+    <string name="day_time_06_00">take shower\n06:00\nIt\'s six o\'clock</string>
 </resources>

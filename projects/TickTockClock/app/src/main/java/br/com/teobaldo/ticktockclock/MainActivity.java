@@ -33,6 +33,11 @@ public class MainActivity extends AppCompatActivity {
         MainActivity.this.startActivity(intent);
     }
 
+    public void dayTimeShow(View view) {
+        Intent intent = new Intent(MainActivity.this, DayTimeActivity.class);
+        MainActivity.this.startActivity(intent);
+    }
+
     /*
     public void ButtonClick(View view) {
         ImageView img = (ImageView)findViewById(R.id.road_background);

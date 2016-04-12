@@ -50,7 +50,8 @@
         </activity>
         <activity android:name=".HourCountActivity" />
         <activity android:name=".MinuteCountActivity" />
-        <activity android:name=".ArrowActivity"></activity>
+        <activity android:name=".ArrowActivity" />
+        <activity android:name=".DayTimeActivity"></activity>
     </application>
 
 </manifest>

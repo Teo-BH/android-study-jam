@@ -36,4 +36,12 @@
     <string name="arrow_hour">12:00\ndoze horas</string>
     <string name="arrow_minute">00:20\nvinte minutos</string>
     <string name="arrow_full">12:20\ndoze vinte</string>
+
+    <string name="day_time_title">Rotina Diária</string>
+    <string name="day_time_description">Veja a rotina diária\n\n</string>
+    <string name="day_time_08_00">café da manhã\n08:00\noito horas</string>
+    <string name="day_time_09_30">assistir TV\n09:30\nnove e trinta</string>
+    <string name="day_time_12_15">almoço\n12:15\ndoze e quinze</string>
+    <string name="day_time_03_45">escola\n03:45\ntrês e quarenta e cinco</string>
+    <string name="day_time_06_00">banho\n06:00\nseis horas</string>
 </resources>
