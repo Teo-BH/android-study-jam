@@ -37,6 +37,20 @@
     <string name="arrow_minute">00:20\nvinte minutos</string>
     <string name="arrow_full">12:20\ndoze vinte</string>
 
+    <string name="fill_time_title">Noção de tempo</string>
+    <string name="fill_time_description">Veja as setas do relógio\n\n</string>
+    <string name="fill_time_00_00">posição inicial\n00:00\nzero minuto</string>
+    <string name="fill_time_00_15">seta de minutos\n00:15\nquinze minutos</string>
+    <string name="fill_time_00_30">seta de minutos\n00:30\ntrinta minutos</string>
+    <string name="fill_time_00_45">seta de minutos\n00:45\nquarenta e cinco minutos</string>
+    <string name="fill_time_00_60">seta de minutos\n00:60\nsessenta minutos</string>
+    <string name="fill_time_01_00">seta de horas\n01:00\numa hora</string>
+    <string name="fill_time_01_15">seta de minutos\n01:15\numa e quinze</string>
+    <string name="fill_time_01_30">seta de minutos\n01:30\numa e trinta</string>
+    <string name="fill_time_01_45">seta de minutos\n01:45\numa e quarenta e cinco</string>
+    <string name="fill_time_01_60">seta de minutos\n01:60\numa e sessenta</string>
+    <string name="fill_time_02_00">seta de horas\n02:00\nduas horas</string>
+
     <string name="day_time_title">Rotina Diária</string>
     <string name="day_time_description">Veja a rotina diária\n\n</string>
     <string name="day_time_08_00">café da manhã\n08:00\noito horas</string>

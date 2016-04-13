@@ -36,6 +36,20 @@
     <string name="arrow_minute">00:20\ntwenty minutes</string>
     <string name="arrow_full">12:20\ntwelve twenty</string>
 
+    <string name="fill_time_title">Time Engine</string>
+    <string name="fill_time_description">See the clock arrows\n\n</string>
+    <string name="fill_time_00_00">initial position\n00:00\nzero minute</string>
+    <string name="fill_time_00_15">minute arrow\n00:15\nfifteen minutes</string>
+    <string name="fill_time_00_30">minute arrow\n00:30\nthirty minutes</string>
+    <string name="fill_time_00_45">minute arrow\n00:45\nfourty five minutes</string>
+    <string name="fill_time_00_60">minute arrow\n00:60\nsixty minutes</string>
+    <string name="fill_time_01_00">hour arrow\n01:00\none o\'clock</string>
+    <string name="fill_time_01_15">minute arrow\n01:15\none fifteen</string>
+    <string name="fill_time_01_30">minute arrow\n01:30\none thirty</string>
+    <string name="fill_time_01_45">minute arrow\n01:45\none fourty five</string>
+    <string name="fill_time_01_60">minute arrow\n01:45\none sixty</string>
+    <string name="fill_time_02_00">hour arrow\n02:00\ntwo o\'clock</string>
+
     <string name="day_time_title">Day Routine</string>
     <string name="day_time_description">See the day routine\n\n</string>
     <string name="day_time_08_00">breakfast\n08:00\nIt\'s eight o\'clock</string>

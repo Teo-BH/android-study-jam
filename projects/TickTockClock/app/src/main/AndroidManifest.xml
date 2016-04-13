@@ -51,7 +51,8 @@
         <activity android:name=".HourCountActivity" />
         <activity android:name=".MinuteCountActivity" />
         <activity android:name=".ArrowActivity" />
-        <activity android:name=".DayTimeActivity"></activity>
+        <activity android:name=".DayTimeActivity" />
+        <activity android:name=".FillTimeActivity"></activity>
     </application>
 
 </manifest>
