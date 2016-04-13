@@ -53,6 +53,10 @@
         <activity android:name=".ArrowActivity" />
         <activity android:name=".DayTimeActivity" />
         <activity android:name=".FillTimeActivity"></activity>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="e94bd5746d9a7f6dce7449d7601b761fa4814675" />
     </application>
 
+    <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
