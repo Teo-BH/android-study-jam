@@ -1,0 +1,24 @@
+Relógio Tic Tak​
+​GDG BH​
+ANDROID STUDY JAM
+
+Objetivo 
+- Ensino infantil​
+- Relógio analógico em 5 passos​
+- Pedagogico​
+- Crianças em fase inicial de alfabetização
+
+Solução
+- A activity inicial trata-se de um background com 5 passos (placas) posicionados através de um RelativeLayout​
+- As demais activities possuem os componentes abaixo estrutura em um LinearLayout​
+  - Título (TextView)​
+  - Exemplo (ImageView)​
+  - Descrição (TextView)​
+- As imagens são trocadas via programação de acordo com o tempo (segundos)​​
+
+Desafios
+- Posicionar os passos (placas) na activity principal nos diferente layouts suportados pelo Android​
+- Elaboração de um designer (sequencia de imagens) facilitando o entendimento de crianças​
+- Distribuição e crash pelo Crashlytics (fabric.io)​
+- Bug de compatibilidade no Android 4.0 com o Tema default (DarkLight)​
+- Disponível em português e inglês​
